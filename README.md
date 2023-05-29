@@ -1,2 +1,2 @@
-# helperBot
-Bot for my needs
+# ExchangeBot
+Bot for you

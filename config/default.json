@@ -1,0 +1,9 @@
+{
+  "token": "6230023497:AAFL16WwbtHtIuTEaCB5yVqIDI9Xzi_vWYg",
+  "appid": "a763684547086996814dedfa39badda8",
+  "url": "https://bc52-84-51-97-189.ngrok-free.app",
+  "port": 80,
+  "log": {
+    "level": "debug"
+  }
+}
