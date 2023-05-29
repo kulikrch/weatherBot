@@ -1,2 +1,2 @@
 # ExchangeBot
-Bot for you
+Bot for
